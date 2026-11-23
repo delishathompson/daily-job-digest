@@ -56,7 +56,7 @@ Each entry shows the title, agency, a pre-screen score, location, posting date, 
 
 **The terminal output from the same run:**
 
-![Terminal output from the same run](docs/sample-run.png)
+![Terminal output from the same run](sample-run.png)
 
 The function finished with no errors or warnings. It saw 68 postings from 2 sources, 4 passed my filters, and 2 were new. The run took about 40 seconds, mostly from a deliberate pause between Remotive calls to stay under their rate limit.
 
