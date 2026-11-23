@@ -50,7 +50,7 @@ It prints the same kind of list right in the terminal.
 
 **A real digest from a test run (Nov 23, 2026):**
 
-![A real digest email from a test run](docs/sample-digest.png)
+![A real digest email from a test run](sample-digest.png)
 
 Each entry shows the title, agency, a pre-screen score, location, posting date, whether the posting was confirmed open, the pay, the skills it matched, any gaps, and the apply link.
 
