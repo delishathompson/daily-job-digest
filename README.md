@@ -117,11 +117,11 @@ The 100% comes from the scoring: it counts matched skills against skills I'm mis
 
 I thought this would be a huge help, and it isn't there yet. The results are what's limited:
 
-- **The pool of jobs is small.** The sources I can use only cover part of the market, so a lot of the roles I'd actually apply for never reach it.
-- **API access has limits.** Free API keys, rate limits, and sites that don't offer a public API mean I can't pull from everywhere I'd like.
-- **Matching takes tuning.** Getting the keywords, titles, and skill weights to pull the positions that line up with my background is ongoing work.
+- **The pool of jobs is small.** 
+- **API access has limits.** 
+- **Matching takes tuning.** 
 
-What I took from it: building the pipeline was the easier part. A tool like this is only as good as the places it pulls jobs from and the filters that decide what counts as a match, and that's where my time is going now.
+What I took from it: building the pipeline was the easier part. A tool like this is only as good as the places it pulls jobs from and the filters that decide what counts as a match!
 
 ## Project layout
 
